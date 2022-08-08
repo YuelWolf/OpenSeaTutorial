@@ -1,0 +1,31 @@
+{
+  "attributes" : [
+     {
+        "trait_type" : "Rarerity",
+        "value" : 3
+     },
+     {
+        "trait_type" : "Type",
+        "value" : "Cosmic"
+     },
+     {
+        "display_type" : "boost_number",
+        "trait_type" : "aqua_power",
+        "value" : 30
+     },
+     {
+        "display_type" : "boost_percentage",
+        "trait_type" : "stamina_increase",
+        "value" : 15
+     },
+     {
+        "display_type" : "number",
+        "trait_type" : "generation",
+        "value" : 1
+     }
+  ],
+  "description" : "Darkcreature serving of Chuthulu",
+  "external_url" : "https://example.com/?token_id=2",
+  "image" : "https://bafybeidegafnbd54bfqokes76nxdbdc4tor3ngadxs4o64hyl62oi6nueu.ipfs.nftstorage.link/ImagenTest.png",
+    "name" : "Lil' Fhatgn"
+}
